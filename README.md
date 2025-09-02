@@ -31,7 +31,7 @@ Preliminary results based on Exploratory Data Analysis (EDA) and inital modeling
 
 #### Outline of project
 
-- https://github.com/stephen-scheiman/Capstone-Project
+- https://github.com/stephen-scheiman/Capstone
 
 
 ##### Contact and Further Information
