@@ -23,7 +23,9 @@ How have shifts in global temperature trends influenced the frequency and severi
 Following data cleaning—which includes handling missing values and outliers—I will perform feature engineering as appropriate. Subsequent exploratory data analysis will employ methods such as geospatial analysis and descriptive statistics. To identify patterns and gain insights, I plan to implement regression, classification, and advanced geospatial analytical techniques.
 
 #### Results
-Preliminary results based on Exploratory Data Analysis (EDA) and inital modeling indicate that California's wildfires, while no more frequent during the study period, are significantly more severe in the amount of acreage burned per year. Additionally, we were able to determine basic characteristics of California Wildfires such as the counties that experience the most wildfire and most acreage burned, the most prevalent and damaging months for wildfire starts as well as the leading causes of wildfire in the state over the course of the study period.
+Results based on Exploratory Data Analysis (EDA) and modeling indicate that California's wildfires, while no more frequent during the study period, are significantly more severe in the amount of acreage burned per year. Additionally, we were able to determine basic characteristics of California Wildfires such as the counties that experience the most wildfire and most acreage burned, the most prevalent and damaging months for wildfire starts as well as the leading causes of wildfire in the state over the course of the study period.
+
+We were able to correlate rising average high temperatures to wildfire severity, with a correlation of almost sixty percent. 
 
 #### Next steps
 1- Attempt to tune our Regression and Random Forest Classifier models
