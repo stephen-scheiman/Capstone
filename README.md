@@ -1,4 +1,6 @@
-# Data Analysis of California Wildfires from 1992 - 2020
+# An Analysis of California Wildfires from 1992 - 2020
+
+![Local Image](Images/wildfire.avif)
 
 **Author:** Stephen Scheiman
 
