@@ -12,6 +12,8 @@ We were able to correlate rising average high temperatures to wildfire severity,
 
 Rising temperatures don’t just correlate with wildfire activity in California—they are a primary driver. The hotter the atmosphere, the drier the vegetation and soils, and the more explosive the fires become. Human land use and fire suppression policies amplify this climate signal, but the underlying physics of heat and dryness are the dominant force.
 
+![Local Image](Images/Triplot.png)
+
 ## Rationale
 Analysis of the data and established reasoning suggest that both the incidence and severity of wildfires in California have risen over our sutdy period time frame. An in-depth understanding of these trends is critical from multiple standpoints:
 
